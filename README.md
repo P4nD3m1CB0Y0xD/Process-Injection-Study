@@ -4,3 +4,4 @@ This repository contains some example of Process Injection techniques used by ma
 ## Techniques:
 - Self Injection
 - Remote Process Injection
+- Dll Inection
